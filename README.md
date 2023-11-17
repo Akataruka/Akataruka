@@ -7,7 +7,7 @@ Hi there !!!
 </h2> 
 
 <p align="center">
-<img src = "https://visits.dashroshan.com/Akataruka-gh?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=1CA2F1&labelTextColor=FFFFFF&countTextColor=FFFFFF" height = 30px> <a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://www.linkedin.com/in/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=2767B1" height = 30px></a> 
+<a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://www.linkedin.com/in/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=2767B1" height = 30px></a> 
 </p>
 
 
