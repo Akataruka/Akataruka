@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Asutosh+Kataruka;Glad+to+see+you+here;Believe+in+learning+new+things;lets+learn+together+and+build+together.;Lets+discuss...;This+is+the+way.)]()
+<br>
+</h2> 
 
 <!--
 **Akataruka/Akataruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
