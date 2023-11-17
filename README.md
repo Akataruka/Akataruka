@@ -1,6 +1,5 @@
-
 <h2 align="left">
-### Hi there 
+Hi there!!!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey!+I'm+Asutosh+Kataruka;Glad+to+see+you+here;Believe+in+learning+new+things;lets+learn+together+and+build+together.;Lets+discuss...;This+is+the+way.)]()
