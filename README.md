@@ -7,7 +7,7 @@ Hi there !!!
 </h2> 
 
 <p align="center">
-<a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/asutosh-kataruka-79aa05269/)"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=2767B1" height = 30px></a> 
+<a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://www.linkedin.com/in/asutosh-kataruka-79aa05269/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=2767B1" height = 30px></a> 
 </p>
 
 
