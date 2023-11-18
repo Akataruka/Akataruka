@@ -38,7 +38,7 @@ Database      | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?st
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akataruka&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akataruka&theme=high-contrast&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akataruka&show_icons=true&theme=dark&locale=en&hide_border=false&area=true"/></td>
