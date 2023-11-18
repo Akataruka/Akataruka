@@ -6,7 +6,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Akataruka?style=social?font=FiraCode&color=e30707) ![GitHub User's stars](https://img.shields.io/github/stars/Akataruka?style=social?font=FiraCode&color=e30707)
 
-&nbsp;
+<p align="left">
+<a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a>   &nbsp
+<a href="https://www.linkedin.com/in/asutosh-kataruka-79aa05269/" ><img src="https://img.shields.io/badge/-Asutosh%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" height = 30px /></a>   &nbsp
+<a href="https://instagram.com/_asutoshk.09_?utm_source=qr&igshid=OGU0MmVlOWVjOQ==" ><img src="https://img.shields.io/badge/-@_asutosh.09_-E4405F?style=flat&logo=Instagram&logoColor=white" height = 30px /></a>
+</p>
 
 ---
 
@@ -42,17 +46,13 @@ Database      | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?st
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akataruka&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=false&area=true"/></td>
   </tr>
  <tr>
-  <td colspan="2" ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Akataruka&theme=dark&hide_border=false&area=true" alt="anii693" /></td>
+  <td colspan="2" align="center" >   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=Akataruka&theme=dark&hide_border=false&area=true" alt="anii693" /></td>
  </tr>
 </table>
 
 
  # Connect with Me 🤝🏻
 
-<p align="center">
-<a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a>   &nbsp
-<a href="https://www.linkedin.com/in/asutosh-kataruka-79aa05269/" ><img src="https://img.shields.io/badge/-Asutosh%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white" height = 30px /></a>   &nbsp
-<a href="https://instagram.com/_asutoshk.09_?utm_source=qr&igshid=OGU0MmVlOWVjOQ==" ><img src="https://img.shields.io/badge/-@_asutosh.09_-E4405F?style=flat&logo=Instagram&logoColor=white" height = 30px /></a>
-</p>
+
 
 ---
