@@ -36,7 +36,6 @@ Database      | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?st
 &nbsp;
 # ⚙️ &nbsp;GitHub Analytics
 
-
 <table align="center">
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akataruka&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
@@ -49,10 +48,5 @@ Database      | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?st
   <td colspan="2" align="center" >   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=Akataruka&theme=dark&hide_border=false&area=true" alt="anii693" /></td>
  </tr>
 </table>
-
-
- # Connect with Me 🤝🏻
-
-
 
 ---
