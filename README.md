@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode&color=ebc60e&size=25&lines=Hey!+I'm+Asutosh+Kataruka;Glad+to+see+you+here;Believe+in+learning+new+things;lets+learn+together+and+build+together.;Lets+discuss...;This+is+the+way.)](https://git.io/typing-svg)
 
-![GitHub followers](https://img.shields.io/github/followers/Akataruka?style=social?font=FiraCode&color=e30707) ![GitHub User's stars](https://img.shields.io/github/stars/Akataruka?style=social?font=FiraCode&color=e30707)
+![GitHub followers](https://img.shields.io/github/followers/Akataruka?style=social?font=FiraCode&color=e30707) ![GitHub User's stars](https://img.shields.io/github/stars/Akataruka?style=social?font=FiraCode&color=e30707) <img src="https://komarev.com/ghpvc/?username=Akataruka&label=Profile%20views&color=e30707&style=flat" alt="Akataruka" />
 
 <p align="left">
 <a href="#"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a>   &nbsp
