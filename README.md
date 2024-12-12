@@ -44,9 +44,9 @@ Database      | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?st
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akataruka&show_icons=true&theme=dark&locale=en&hide_border=false&area=true"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akataruka&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=false&area=true"/></td>
   </tr>
- <tr>
+<!--  <tr>
   <td colspan="2" align="center" >   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=Akataruka&theme=dark&hide_border=false&area=true" alt="anii693" /></td>
- </tr>
+ </tr> -->
 </table>
 
 ---
