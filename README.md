@@ -1,55 +1,112 @@
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br align="left">
-<img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" /> 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode&color=ebc60e&size=25&lines=Hey!+I'm+Asutosh+Kataruka;AI+%7C+ML+%7C+CS+Fundamentals;Lover+of+Code+and+Curiosity;Let's+Build+Smarter+Together.;Explore.+Learn.+Innovate.)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode&color=ebc60e&size=25&lines=Hi,+I'm+Asutosh+Kataruka;AI/ML+Engineer;Learning+Java+%26+Time+Series)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/Akataruka?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/Akataruka?style=social) 
 <img src="https://komarev.com/ghpvc/?username=Akataruka&label=Profile%20views&color=e30707&style=flat" alt="Akataruka" />
 
 <p align="left">
-<a href="https://linktr.ee/asutoshk_09"><img src="https://img.shields.io/badge/Linktree-Profile-green?style=flat&logo=linktree&logoColor=white" height=30px /></a> &nbsp;
 <a href="https://asutosh-kataruka.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-1CA2F1?style=flat&logo=vercel&logoColor=white" height=30px /></a> &nbsp;
 <a href="https://www.linkedin.com/in/asutosh-kataruka/" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height=30px /></a> &nbsp;
-<a href="https://dev.to/asutoshk_09" ><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" height=30px /></a> &nbsp;
-<a href="https://hashnode.com/@asutoshk09" ><img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=flat&logo=hashnode&logoColor=white" height=30px /></a> &nbsp;
 </p>
 
 ---
 
-&nbsp;
-# <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="35"> About Me 
-- 👨‍🎓 **3rd Year CSE Undergrad** from IIIT Bhubaneswar.
-- 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Core CS concepts** like DSA, OS, DBMS, and OOP.
-- 🔍 Currently learning **System Design** (LLD/HLD) and scalable backend systems.
-- 🤖 Exploring the world of **Langchain**, **Groq**, and **RAG-based LLM applications**.
-- 🧠 Working on projects in **Medical Imaging**, **LLMs**, and **Custom ML Tools**.
-- 💻 Strong grip on **Python**, **C++**, **FastAPI**, and hands-on with **React**, **Next.js**, **Tailwind CSS**.
-- 🤝 Open to collaborating in **AI research**, **developer tools**, and **product-focused ML use cases**.
+# 👋 About Me  
 
-&nbsp;
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> Skills
+- 🎓 Final-year **CSE Undergrad at IIIT Bhubaneswar**  
+- 🤖 Focused on **AI/ML systems, LLMs, and backend engineering**  
+- ⚙️ Interested in **system design & scalable applications**  
+- 🧠 Strong in **DSA, OS, DBMS, OOP**  
+- 🔍 Exploring **RAG pipelines & real-world AI use cases**  
+- 📈 Currently learning **Java & Time Series Analysis**  
 
-Property                 | Data  
--------------------------|------
-**Languages** | ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
-**AI/ML Tools** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-%2300B0FF.svg?style=flat&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-AI-%23FF004F?style=flat&logo=groq&logoColor=white)
-**Web & Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-**Cloud & DevOps** | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-**Utilities** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
-&nbsp;
-# ⚙️ GitHub Analytics
+# 🛠 Skills  
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
+
+**Backend & Web**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)
+
+---
+
+# 🚀 Projects    
+
+### 🤖 Cold Message Generator (LLM App)  
+- LLM-based app for personalized outreach  
+- Uses Groq + LangChain  
+
+### 🚉 Station Management System  
+- Train scheduling using OOP + priority queues  
+- Handles dynamic allocation  
+
+### ✋ Hand Tracking System  
+- Real-time hand tracking using OpenCV  
+- Gesture-based interaction  
+
+### 🌐 Portfolio Website  
+- Built using Next.js + Tailwind  
+- Showcases projects & profile  
+
+### 🧠 ML Experiments  
+- Collection of ML models & practice work  
+
+---
+
+# ⚙️ GitHub Analytics  
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Akataruka&theme=high-contrast&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akataruka&theme=high-contrast&area=true" />
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Akataruka&show_icons=true&theme=dark&locale=en&hide_border=false&area=true"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akataruka&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=false&area=true"/></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Akataruka&show_icons=true&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akataruka&layout=compact&theme=dark" />
+    </td>
   </tr>
 </table>
 
 ---
+
+# 🌐 Connect  
+
+- 🌍 Portfolio: https://asutosh-kataruka.vercel.app/  
+- 💼 LinkedIn: https://linkedin.com/in/asutosh-kataruka  
+- 💻 GitHub: https://github.com/Akataruka  
+
+---
+
+# ⚡ Focus  
+
+- AI/ML Engineering  
+- Backend / Systems Engineering  
+- Real-world product development
